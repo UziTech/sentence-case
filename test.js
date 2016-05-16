@@ -16,6 +16,8 @@ var TESTS = [
   // Camel case.
   ['testString', 'test string'],
   ['testString123', 'test string 123'],
+  ['anHTMLTag', 'an html tag'],
+  ['ID123String', 'id123 string'],
 
   // Non-alphanumeric separators.
   ['dot.case', 'dot case'],
