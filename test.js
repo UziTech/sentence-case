@@ -19,6 +19,9 @@ var TESTS = [
   ['anHTMLTag', 'an html tag'],
   ['ID123String', 'id123 string'],
 
+  // Constant case
+  ['CONSTANT_CASE ', 'constant case'],
+
   // Non-alphanumeric separators.
   ['dot.case', 'dot case'],
   ['path/case', 'path case'],
